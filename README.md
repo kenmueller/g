@@ -13,10 +13,10 @@
 
 ## Examples
 
-1. `push 'added example.txt'`
+1. `push "added example.txt"`
 2. `pull`
 3. `init kenmueller g`
 4. `create kenmueller g`
 5. `clone kenmueller g`
-6. `commit 'added example.txt'`
+6. `commit "added example.txt"`
 7. `onlypush`
