@@ -15,10 +15,11 @@
 
 1. Click on `g.dmg` in the file list
 2. On the top right, press `Download` (right next to `History`)
-3. Download it, then open the file
-4. If it gives you an unauthorized warning, go to `System Preferences -> Security and Privacy -> Open anyway`
-5. Open the dmg and double click on `g.command`
-6. Done!
+3. Download it, click on it, then open the file (look at your `Desktop`)
+4. Double click on `g.command`
+5. If it gives you an unauthorized warning, go to `System Preferences -> Security and Privacy -> Open anyway`
+6. Press `Open`
+7. Done!
 
 ## Examples
 
